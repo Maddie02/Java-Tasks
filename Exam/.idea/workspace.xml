@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ea9e65d-4809-451c-b98f-bb23c3b4dcbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aD9Tx71W4pxFiHx87b9niRk6hE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.SampleVirtualWalletTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="task.Main" />
+      <module name="Exam" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleVirtualWalletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="test.SampleVirtualWalletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.SampleVirtualWalletTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SampleVirtualWalletTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ea9e65d-4809-451c-b98f-bb23c3b4dcbb" name="Default Changelist" comment="" />
+      <created>1586259316188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586259316188</updated>
+      <workItem from="1586259356271" duration="5139000" />
+      <workItem from="1586433417662" duration="596000" />
+      <workItem from="1586863397561" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586264005689">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="523" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/65.27.1301.741@65.27.1301.741" timestamp="1586264005689" />
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom" timestamp="1586264681791">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom/65.27.1301.741@65.27.1301.741" timestamp="1586264681791" />
+    <state width="1255" height="175" key="GridCell.Tab.0.center" timestamp="1586264681789">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.center/65.27.1301.741@65.27.1301.741" timestamp="1586264681789" />
+    <state width="1255" height="175" key="GridCell.Tab.0.left" timestamp="1586264681786">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.left/65.27.1301.741@65.27.1301.741" timestamp="1586264681786" />
+    <state width="1255" height="175" key="GridCell.Tab.0.right" timestamp="1586264681790">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.right/65.27.1301.741@65.27.1301.741" timestamp="1586264681790" />
+    <state x="407" y="245" width="636" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586264455046">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="407" y="245" width="636" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/65.27.1301.741@65.27.1301.741" timestamp="1586264455046" />
+    <state x="75" y="27" width="1291" height="741" key="new project wizard" timestamp="1586864348362">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="75" y="27" width="1291" height="741" key="new project wizard/65.27.1301.741@65.27.1301.741" timestamp="1586864348362" />
+  </component>
+</project>

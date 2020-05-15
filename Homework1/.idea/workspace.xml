@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eed90c79-1bf5-498d-9562-7af2b8a3e8b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="161" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZaMTX9hoXTI0ATFURU1rIHbFwa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.NutsTest">
+    <configuration name="BaseFoodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.food.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.food" />
+      <option name="MAIN_CLASS_NAME" value="test.food.BaseFoodTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CakeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.food.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.food" />
+      <option name="MAIN_CLASS_NAME" value="test.food.CakeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="McBurgerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.food.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.food" />
+      <option name="MAIN_CLASS_NAME" value="test.food.McBurgerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NutsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.food.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.food" />
+      <option name="MAIN_CLASS_NAME" value="test.food.NutsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquirrelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SquirrelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NutsTest" />
+        <item itemvalue="JUnit.McBurgerTest" />
+        <item itemvalue="JUnit.BaseFoodTest" />
+        <item itemvalue="JUnit.CakeTest" />
+        <item itemvalue="JUnit.SquirrelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed90c79-1bf5-498d-9562-7af2b8a3e8b8" name="Default Changelist" comment="" />
+      <created>1585072759990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585072759990</updated>
+      <workItem from="1585072764657" duration="1259000" />
+      <workItem from="1585075289143" duration="8146000" />
+      <workItem from="1585132565540" duration="827000" />
+      <workItem from="1585334700990" duration="1029000" />
+      <workItem from="1585408028117" duration="496000" />
+      <workItem from="1585670379648" duration="3963000" />
+      <workItem from="1585745537231" duration="9642000" />
+      <workItem from="1585757721986" duration="8332000" />
+      <workItem from="1585826516493" duration="1083000" />
+      <workItem from="1585836311905" duration="7655000" />
+      <workItem from="1585920132064" duration="7522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="125" width="1101" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585921545719">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="165" y="125" width="1101" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/65.27.1301.741@65.27.1301.741" timestamp="1585921545719" />
+    <state x="523" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1585923241877">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="523" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/65.27.1301.741@65.27.1301.741" timestamp="1585923241877" />
+    <state x="448" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585078471469">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="448" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.27.1301.741@65.27.1301.741" timestamp="1585078471469" />
+    <state x="498" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585827607420">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="498" y="154" width="424" height="484" key="FileChooserDialogImpl/65.27.1301.741@65.27.1301.741" timestamp="1585827607420" />
+    <state width="1255" height="207" key="GridCell.Tab.0.bottom" timestamp="1585927741167">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="207" key="GridCell.Tab.0.bottom/65.27.1301.741@65.27.1301.741" timestamp="1585927741167" />
+    <state width="1255" height="207" key="GridCell.Tab.0.center" timestamp="1585927741165">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="207" key="GridCell.Tab.0.center/65.27.1301.741@65.27.1301.741" timestamp="1585927741165" />
+    <state width="1255" height="207" key="GridCell.Tab.0.left" timestamp="1585927741164">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="207" key="GridCell.Tab.0.left/65.27.1301.741@65.27.1301.741" timestamp="1585927741164" />
+    <state width="1255" height="207" key="GridCell.Tab.0.right" timestamp="1585927741166">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="207" key="GridCell.Tab.0.right/65.27.1301.741@65.27.1301.741" timestamp="1585927741166" />
+    <state width="1255" height="219" key="GridCell.Tab.1.bottom" timestamp="1585927741089">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.bottom/65.27.1301.741@65.27.1301.741" timestamp="1585927741089" />
+    <state width="1255" height="219" key="GridCell.Tab.1.center" timestamp="1585927741087">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.center/65.27.1301.741@65.27.1301.741" timestamp="1585927741087" />
+    <state width="1255" height="219" key="GridCell.Tab.1.left" timestamp="1585927741083">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.left/65.27.1301.741@65.27.1301.741" timestamp="1585927741083" />
+    <state width="1255" height="219" key="GridCell.Tab.1.right" timestamp="1585927741089">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="219" key="GridCell.Tab.1.right/65.27.1301.741@65.27.1301.741" timestamp="1585927741089" />
+    <state x="387" y="292" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585921142024">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="387" y="292" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/65.27.1301.741@65.27.1301.741" timestamp="1585921142024" />
+    <state x="65" y="27" width="1291" height="741" key="new project wizard" timestamp="1585132760170">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="65" y="27" width="1291" height="741" key="new project wizard/65.27.1301.741@65.27.1301.741" timestamp="1585132760170" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585077332099">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.27.1301.741@65.27.1301.741" timestamp="1585077332099" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Homework1$BaseFoodTest.ic" NAME="BaseFoodTest Coverage Results" MODIFIED="1585924473939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.food.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Homework1$CakeTest.ic" NAME="CakeTest Coverage Results" MODIFIED="1585923449441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.food.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Homework1$SquirrelTest.ic" NAME="SquirrelTest Coverage Results" MODIFIED="1585921731519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Homework1$NutsTest.ic" NAME="NutsTest Coverage Results" MODIFIED="1585924760867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.food.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Homework1$McBurgerTest.ic" NAME="McBurgerTest Coverage Results" MODIFIED="1585924574129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.food.*</FILTER>
+    </SUITE>
+  </component>
+</project>

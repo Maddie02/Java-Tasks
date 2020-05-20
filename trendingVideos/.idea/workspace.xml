@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="269bdcf7-0c53-4df1-a17b-037b2c1b4d70" name="Default Changelist" comment="" />
+    <list default="true" id="269bdcf7-0c53-4df1-a17b-037b2c1b4d70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/IMDbTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/movies-mpaa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/task/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/task/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/task/MoviesExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USvideos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/YouTubeTrendsExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/YouTubeTrendsExplorer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bUJVgVObmtqNiyvGI0VJOlq4Eb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,12 +44,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -41,6 +71,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,6 +92,9 @@
       <workItem from="1588797906747" duration="79000" />
       <workItem from="1588851491632" duration="1105000" />
       <workItem from="1589283562872" duration="3017000" />
+      <workItem from="1589887563612" duration="821000" />
+      <workItem from="1589977558060" duration="6691000" />
+      <workItem from="1589999823221" duration="4195000" />
     </task>
     <servers />
   </component>
@@ -64,6 +102,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom" timestamp="1590004064909">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom/65.27.1301.741@65.27.1301.741" timestamp="1590004064909" />
+    <state width="1255" height="175" key="GridCell.Tab.0.center" timestamp="1590004064906">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.center/65.27.1301.741@65.27.1301.741" timestamp="1590004064906" />
+    <state width="1255" height="175" key="GridCell.Tab.0.left" timestamp="1590004064903">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.left/65.27.1301.741@65.27.1301.741" timestamp="1590004064903" />
+    <state width="1255" height="175" key="GridCell.Tab.0.right" timestamp="1590004064908">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.right/65.27.1301.741@65.27.1301.741" timestamp="1590004064908" />
+    <state x="65" y="27" width="1291" height="741" key="new project wizard" timestamp="1589888489790">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="65" y="27" width="1291" height="741" key="new project wizard/65.27.1301.741@65.27.1301.741" timestamp="1589888489790" />
     <state x="378" y="89" key="search.everywhere.popup" timestamp="1589286490737">
       <screen x="65" y="27" width="1301" height="741" />
     </state>

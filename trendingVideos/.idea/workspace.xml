@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="269bdcf7-0c53-4df1-a17b-037b2c1b4d70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/IMDbTask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/movies-mpaa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/task/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/task/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IMDbTask/src/task/MoviesExplorer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/USvideos.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/YouTubeTrendsExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/YouTubeTrendsExplorer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IMDbTask" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,7 +79,9 @@
       <workItem from="1589283562872" duration="3017000" />
       <workItem from="1589887563612" duration="821000" />
       <workItem from="1589977558060" duration="6691000" />
-      <workItem from="1589999823221" duration="4195000" />
+      <workItem from="1589999823221" duration="5805000" />
+      <workItem from="1590052666926" duration="1583000" />
+      <workItem from="1590060238609" duration="606000" />
     </task>
     <servers />
   </component>
@@ -102,22 +89,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1255" height="175" key="GridCell.Tab.0.bottom" timestamp="1590004064909">
+    <state x="461" y="149" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590060948112">
       <screen x="65" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="175" key="GridCell.Tab.0.bottom/65.27.1301.741@65.27.1301.741" timestamp="1590004064909" />
-    <state width="1255" height="175" key="GridCell.Tab.0.center" timestamp="1590004064906">
+    <state x="461" y="149" width="424" height="484" key="FileChooserDialogImpl/65.27.1301.741@65.27.1301.741" timestamp="1590060948112" />
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom" timestamp="1590007008438">
       <screen x="65" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="175" key="GridCell.Tab.0.center/65.27.1301.741@65.27.1301.741" timestamp="1590004064906" />
-    <state width="1255" height="175" key="GridCell.Tab.0.left" timestamp="1590004064903">
+    <state width="1255" height="175" key="GridCell.Tab.0.bottom/65.27.1301.741@65.27.1301.741" timestamp="1590007008438" />
+    <state width="1255" height="175" key="GridCell.Tab.0.center" timestamp="1590007008392">
       <screen x="65" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="175" key="GridCell.Tab.0.left/65.27.1301.741@65.27.1301.741" timestamp="1590004064903" />
-    <state width="1255" height="175" key="GridCell.Tab.0.right" timestamp="1590004064908">
+    <state width="1255" height="175" key="GridCell.Tab.0.center/65.27.1301.741@65.27.1301.741" timestamp="1590007008392" />
+    <state width="1255" height="175" key="GridCell.Tab.0.left" timestamp="1590007008363">
       <screen x="65" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="175" key="GridCell.Tab.0.right/65.27.1301.741@65.27.1301.741" timestamp="1590004064908" />
+    <state width="1255" height="175" key="GridCell.Tab.0.left/65.27.1301.741@65.27.1301.741" timestamp="1590007008363" />
+    <state width="1255" height="175" key="GridCell.Tab.0.right" timestamp="1590007008397">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="175" key="GridCell.Tab.0.right/65.27.1301.741@65.27.1301.741" timestamp="1590007008397" />
     <state x="65" y="27" width="1291" height="741" key="new project wizard" timestamp="1589888489790">
       <screen x="65" y="27" width="1301" height="741" />
     </state>
